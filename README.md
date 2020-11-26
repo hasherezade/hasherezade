@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/hasherezade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasherezade&&hide=cmake&line_height=35&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasherezade&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
 </a>
