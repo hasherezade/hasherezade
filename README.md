@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/hasherezade">
   <img src="https://img.shields.io/twitter/follow/hasherezade?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
 </a>
+
+---
+
+📌 [List of my PE injection demos](https://gist.github.com/hasherezade/e6daa4124fab73543497b6d1295ece10)
